@@ -1,10 +1,10 @@
-step£º
+stepÂ£Âº
 
-¢Ù Make solution:   build/make-solutions.bat
+1. Make solution:   build/make-solutions.bat
 
-¢Ú Config solution: set ffmpegDemoWin as Startup project
+2. Config solution: set ffmpegDemoWin as Startup project
 
-¢Û Run solution£ºadd command line as below to project
+3. Run solutionÂ£Âºadd command line as below to project
 
 -i $(SolutionDir)/../video/test.265 -o 1.yuv
 
