@@ -1,4 +1,4 @@
-step£º
+step:
 
 1. Make solution:   build/make-solutions.bat
 
